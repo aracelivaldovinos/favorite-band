@@ -4,11 +4,16 @@ h1 {
 
 img {
   float: right;
+  padding: 4px;
 }
 
 div.sidebar {
   width: 30%;
   float: right;
   background-color: yellow;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  
 }
 
