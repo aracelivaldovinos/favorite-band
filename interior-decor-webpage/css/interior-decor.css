@@ -1,7 +1,20 @@
-div.column {
+div.column1 {
   width: 300px;
   float: left;
   text-align: center;
+  background-color: rgb(226, 77, 102);
+}
+div.column2 {
+  width: 300px;
+  float: left;
+  text-align: center;
+  background-color: rgb(119, 26, 119);
+}
+div.column3 {
+  width: 300px;
+  float: left;
+  text-align: center;
+  background-color: rgb(102, 102, 241);
 }
 h1{
   text-align: center;
@@ -11,3 +24,4 @@ h1{
 p.left{
   text-align: left;
 }
+
