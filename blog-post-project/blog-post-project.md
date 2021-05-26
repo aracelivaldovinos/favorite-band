@@ -5,7 +5,7 @@ Today I'll talk about a few of my _favorite_ places I have visited so far in **2
 Places that I've visited:
 
 * Vancouver, Canada
-* Miami, Floridau
+* Miami, Florida
 * Orlando, Florida
 * Yellowston National Park, Wyoming
 * Grand Teton National Park, Wyoming
